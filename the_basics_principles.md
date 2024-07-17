@@ -216,7 +216,7 @@ principle.
 ## Open-Closed Principle - The O in SOLID
 
 The **Open-Closed** principle states that a piece of code should be Open for
-extension but closed for modification.
+extension but Closed for modification.
 
 This means that you should write your code in a way that makes it possible to
 change its behavior without changing the code itself. What? Yeah, you heard it
