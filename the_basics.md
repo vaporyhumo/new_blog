@@ -4,6 +4,11 @@
 most important topics that I consider to be basic knowledge in software
 development.
 
+A fair warning that this series might hurt some egos, but that's now what I'm
+trying to do, I'm not trying to pass judgement, but rather share my opinion on
+what **I** consider to be fundamental, this is ultimately an opinion, not a
+statement of truth; you are free to disagree!
+
 These are things that in, my opinion, anyone intending to write software
 professionally should eventually learn, and are requirements for anyone wanting
 to call themselves anything other but a Junior. If you don't have a firm grasp
