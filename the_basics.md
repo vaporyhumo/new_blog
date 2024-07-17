@@ -11,13 +11,14 @@ over these concepts, you are essentially still a Junior developer.
 
 The topics I'll be discussing in this series are, not necessarily in order:
 * Software development and design principles
-* Code smells
-* Design patterns
-* Refactoring techniques
+* Code Smells
+* Design Patterns
+* Refactoring Techniques
 * Development tools
-* Test-driven development
-* Agile software development
+* Test-Driven Development
+* Agile Software Development
 * Continuous Integration
+* Pair Programming
 
 Of particular interest are the two last topics, which in the last years have
 suffered from severe semantic drift, meaning that when most people talk about
