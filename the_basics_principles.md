@@ -368,7 +368,7 @@ of code that you write; that might even be impossible, or impractical.
 I think you should try to apply most of these principles most of the time, and
 that the more you apply them, the better your code will be. With time and 
 practice you will learn the cases where following any of these principles has
-more downsides than benefits, are when the benefits are not worth the cost.
+more downsides than benefits, or when the benefits are not worth the cost.
 
 If you are used to separating your code into small pieces, a lot of these
 principles will be applied without you even noticing; others not so much, so you
