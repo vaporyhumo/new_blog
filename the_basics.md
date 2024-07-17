@@ -1,4 +1,4 @@
-# The Basics Part 0: Introduction
+# The Basics, Part 0: Introduction
 
 **The Basics** is a series of blog posts I'm writting in which I address the
 most important topics that I consider to be basic knowledge in software
