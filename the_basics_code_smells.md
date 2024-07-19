@@ -7,7 +7,7 @@ software at a professional level.
 The ability to recognize and correct Code Smells is one of the basic abilities
 that distinguishes inexperienced developers from more senior ones.
 
-This post ins not meant to be an in-depth explanation of every code smell, but
+This post is not meant to be an in-depth explanation of every code smell, but
 rather an introduction to them and a refresher that will allow you to reflect on
 whether you know and remember them correctly.
 
