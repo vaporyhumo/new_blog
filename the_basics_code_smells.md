@@ -14,7 +14,7 @@ whether you know and remember them correctly.
 ## What are Code Smells
 
 Code Smells are signs, or indicators, of possible problems within your code.
-Each one of these code smells have a relation with one or more remediating
+Each one of these code smells has a relation with one or more remediating
 refactoring techniques.
 
 The **possible** word here is important. Not all code that has a smell needs
