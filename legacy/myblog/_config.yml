@@ -1,0 +1,11 @@
+url: "https://rodrigovilina.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Rodrigo Vilina" # the name of your site, e.g. ACME Corp.
+strict_front_matter: true
+exclude:
+  - bin/
+liquid:
+  error_mode: strict
+  strict_variables: true
+  strict_filters: true
+lang: en-US
